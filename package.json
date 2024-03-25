@@ -1,0 +1,14 @@
+{
+  "name": "finance-js",
+  "version": "1.0.0",
+  "description": "A finance tracking library and application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "financejs"
+  ],
+  "author": "Valesh Levin Mathias",
+  "license": "ISC"
+}
